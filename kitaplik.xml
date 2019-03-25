@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kitaplik>
+	<kitap>
+        <baslik>Harry Potter ve Felsefe Taşı</baslik>
+        <yazar>J. K. Rowling</yazar>
+        <yayinevi>Yapı Kredi Yayınları</yayinevi>
+        <ISBN>9789750802942</ISBN>
+        <yil>2016</yil>
+        <fiyat>15,05</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Harry-Potter-Ve-Felsefe-Tasi-1-Kitap/Edebiyat/Roman/Fantastik/urunno=0000000105599</URL>
+    </kitap>
+    <kitap>
+        <baslik>Harry Potter ve Sırlar Odası</baslik>
+        <yazar>J. K. Rowling</yazar>
+        <yayinevi>Yapı Kredi Yayınları</yayinevi>
+        <ISBN>9789750802959</ISBN>
+        <yil>2016</yil>
+        <fiyat>18,06</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Harry-Potter-Ve-Sirlar-Odasi-2-Kitap/Edebiyat/Roman/Fantastik/urunno=0000000105931</URL>
+    </kitap>
+    <kitap>
+        <baslik>Harry Potter ve Azkaban Tutsağı</baslik>
+        <yazar>J. K. Rowling</yazar>
+        <yayinevi>Yapı Kredi Yayınları</yayinevi>
+        <ISBN>9789750803116</ISBN>
+        <yil>2016</yil>
+        <fiyat>21,07</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Harry-Potter-Ve-Azkaban-Tutsagi-3-Kitap/Edebiyat/Roman/Fantastik/urunno=0000000107298</URL>
+    </kitap>	
+    <kitap>
+        <baslik>Harry Potter ve Ateş Kadehi</baslik>
+        <yazar>J. K. Rowling</yazar>
+        <yayinevi>Yapı Kredi Yayınları</yayinevi>
+        <ISBN>9789750803314</ISBN>
+        <yil>2000</yil>
+        <fiyat>26,48</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Harry-Potter-Ve-Ates-Kadehi-4-Kitap/Edebiyat/Roman/Fantastik/urunno=0000000110898</URL>
+    </kitap>	
+    <kitap>
+        <baslik>Harry Potter ve Zümrüdüanka Yoldaşlığı</baslik>
+        <yazar>J. K. Rowling</yazar>
+        <yayinevi>Yapı Kredi Yayınları</yayinevi>
+        <ISBN>9789750806452</ISBN>
+        <yil>2016</yil>
+        <fiyat>33,10</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Harry-Potter-Ve-Zumruduanka-Yoldasligi-5-Kitap/Edebiyat/Roman/Fantastik/urunno=0000000141001</URL>
+    </kitap>
+    <kitap>
+        <baslik>Harry Potter ve Melez Prens</baslik>
+        <yazar>J. K. Rowling</yazar>
+        <yayinevi>Yapı Kredi Yayınları</yayinevi>
+        <ISBN>9789750809958</ISBN>
+        <yil>2005</yil>
+        <fiyat>21,07</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Harry-Potter-Ve-Melez-Prens-6-Kitap/Edebiyat/Roman/Fantastik/urunno=0000000187015</URL>
+    </kitap>
+    <kitap>
+        <baslik>Harry Potter ve Ölüm Yadigarları</baslik>
+        <yazar>J. K. Rowling</yazar>
+        <yayinevi>Yapı Kredi Yayınları</yayinevi>
+        <ISBN>9789750812989</ISBN>
+        <yil>2016</yil>
+        <fiyat>28,89</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Harry-Potter-Ve-Olum-Yadigarlari-7-Kitap/Edebiyat/Roman/Fantastik/urunno=0000000247902</URL>
+    </kitap>
+    <kitap>
+        <baslik>Harry Potter and the Cursed Child</baslik>
+        <yazar>Kolektif</yazar>
+        <yayinevi>Sphere</yayinevi>
+        <ISBN>9780751565362</ISBN>
+        <yil>2017</yil>
+        <fiyat>60,60</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Harry-Potter-And-The-Cursed-Child/Foreign-Languages/Literature-And-Novel/Sci-Fifantasy/urunno=0001742507001</URL>
+    </kitap>	
+    <kitap>
+        <baslik>Nutuk</baslik>
+        <yazar>Mustafa Kemal Atatürk</yazar>
+        <yayinevi>Panama Yayıncılık</yayinevi>
+        <ISBN>9786054401239</ISBN>
+        <yil>2016</yil>
+        <fiyat>5,56</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Nutuk/Arastirma-Tarih/Tarih/Ataturk/urunno=0000000526359</URL>
+    </kitap>	
+    <kitap>
+        <baslik>Geometri</baslik>
+        <yazar>Mustafa Kemal Atatürk</yazar>
+        <yayinevi>Panama Yayıncılık</yayinevi>
+        <ISBN>9786052221112</ISBN>
+        <yil>2018</yil>
+        <fiyat>4,90</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Geometri/Arastirma-Tarih/Tarih/Ataturk/urunno=0001755965001</URL>
+    </kitap>
+    <kitap>
+        <baslik>Mustafa Kemal</baslik>
+        <yazar>Yılmaz Özdil</yazar>
+        <yayinevi>Kırmızı Kedi</yayinevi>
+        <ISBN>9786052983706</ISBN>
+        <yil>2018</yil>
+        <fiyat>25</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Mustafa-Kemal-Ciltli/Arastirma-Tarih/Tarih/Ataturk/urunno=0001778912001</URL>
+    </kitap>
+    <kitap>
+        <baslik>Narnia Günlükleri 1 - Büyücünün Yeğeni</baslik>
+        <yazar>C. S. Lewis</yazar>
+        <yayinevi>Doğan ve Egmont Yayıncılık</yayinevi>
+        <ISBN>9789759910327</ISBN>
+        <yil>2006</yil>
+        <fiyat>13,61</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Narnia-Gunlukleri-1-Buyucunun-Yegeni/Cocuk-Ve-Genclik/Genclik-10-Yas/Fantastikbilim-Kurgu/urunno=0000000189226</URL>
+    </kitap>
+    <kitap>
+        <baslik>A Game of Thrones - Taht Oyunları 3. Cilt</baslik>
+        <yazar>George R. R. Martin</yazar>
+        <yayinevi>Akılçelen Kitaplar</yayinevi>
+        <ISBN>9786055069070</ISBN>
+        <yil>2014</yil>
+        <fiyat>31,25</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/A-Game-of-Thrones-Taht-Oyunlari-3-Cilt/George-R-R-Martin/Cizgi-Roman/urunno=0000000596121</URL>
+    </kitap>	
+    <kitap>
+        <baslik>Bir İz Bırak</baslik>
+        <yazar>Veronica Roth</yazar>
+        <yayinevi>Artemis Yayınları</yayinevi>
+        <ISBN>9786053041573</ISBN>
+        <yil>2017</yil>
+        <fiyat>14,90</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Bir-Iz-Birak/Edebiyat/Roman/Fantastik/urunno=0001686198001</URL>
+    </kitap>	
+    <kitap>
+        <baslik>Beyoğlu'nun En Güzel Abisi</baslik>
+        <yazar>Ahmet Ümit</yazar>
+        <yayinevi>Everest Yayınları</yayinevi>
+        <ISBN>9786051416830</ISBN>
+        <yil>2015</yil>
+        <fiyat>19,14</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Beyoglunun-En-Guzel-Abisi-Clz/Edebiyat/Roman/Polisiye/urunno=0000000563477</URL>
+    </kitap>
+    <kitap>
+        <baslik>Kırlangıç Çığlığı</baslik>
+        <yazar>Ahmet Ümit</yazar>
+        <yayinevi>Everest Yayınları</yayinevi>
+        <ISBN>9786051852478</ISBN>
+        <yil>2018</yil>
+        <fiyat>17,72</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Kirlangic-Cigligi/Edebiyat/Roman/Polisiye/urunno=0001746599001</URL>
+    </kitap>
+    <kitap>
+        <baslik>Mavi Saçlı Kız</baslik>
+        <yazar>Burçak Çerezcioğlu</yazar>
+        <yayinevi>Yapı Kredi Yayınları</yayinevi>
+        <ISBN>9789753637084</ISBN>
+        <yil>2000</yil>
+        <fiyat>12,04</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Mavi-Sacli-Kiz/Edebiyat/Turk-Gunluk-Ani/urunno=0000000058175</URL>
+    </kitap>
+    <kitap>
+        <baslik>Sekizinci Renk</baslik>
+        <yazar>Gülten Dayıoğlu</yazar>
+        <yayinevi>Altın Kitaplar</yayinevi>
+        <ISBN>9789754057447</ISBN>
+        <yil>1999</yil>
+        <fiyat>16,85</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Sekizinci-Renk/Cocuk-Ve-Genclik/Genclik-10-Yas/Romanoyku/urunno=0000000059719</URL>
+    </kitap>	
+    <kitap>
+        <baslik>Cam Kılıç</baslik>
+        <yazar>Victoria Aveyard</yazar>
+        <yayinevi>Pegasus</yayinevi>
+        <ISBN>9786053439356</ISBN>
+        <yil>2016</yil>
+        <fiyat>30,09</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Cam-Kilic/Edebiyat/Roman/Fantastik/urunno=0000000720890</URL>
+    </kitap>	
+    <kitap>
+        <baslik>Darağacında Üç Fidan</baslik>
+        <yazar>Nihat Behram</yazar>
+        <yayinevi>Everest Yayınları</yayinevi>
+        <ISBN>9789753168175</ISBN>
+        <yil>2005</yil>
+        <fiyat>13,44</fiyat>
+        <URL>https://www.dr.com.tr/Kitap/Daragacinda-Uc-Fidan/Arastirma-Tarih/Politikaarastirma/Turkiye-Politika/urunno=0000000105809</URL>
+    </kitap>
+</kitaplik>
